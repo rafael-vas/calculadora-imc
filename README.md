@@ -1,7 +1,5 @@
 # Calculadora IMC
 
-## Bem vindo(a)! 👋
-
 ## Tabela de Conteúdos
 
 - [Visão Geral](#visao-geral)
