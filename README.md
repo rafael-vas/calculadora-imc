@@ -8,7 +8,7 @@
   - [Sobre o desafio](#sobre-o-desafio)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [Desenvolvimento](#meu-processo)
+- [Desenvolvimento](#desenvolvimento)
   - [Desenvolvido com](#desenvolvido-com)
 - [Autor](#autor)
 
