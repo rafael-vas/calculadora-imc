@@ -4,13 +4,13 @@
 
 ## Tabela de Conteúdos
 
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
+- [Visão Geral](#visao-geral)
+  - [Sobre o desafio](#sobre-o-desafio)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-- [Author](#author)
+- [Desenvolvimento](#meu-processo)
+  - [Desenvolvido com](#desenvolvido-com)
+- [Autor](#autor)
 
 
 ## Visão Geral
@@ -30,7 +30,7 @@ Usuários serão capazes de:
 
 
 ### Links
-[Click Here to Access Website](https://rafael-vas.github.io/calculadora-imc/)
+[Clique aqui para acessar o website](https://rafael-vas.github.io/calculadora-imc/)
 
 - Live Site URL:
 ```
@@ -38,15 +38,15 @@ Usuários serão capazes de:
 ```
 
 
-## My process
+## Desenvolvimento
 
-### Built with
+### Desenvolvido com
 
-- Semantic HTML5 markup
-- CSS custom properties
+- HTML5 Semântico
+- Propriedades Avançadas CSS
 - JavaScript
 
 
-## Author
+## Autor
 
 [@rafael-vas](https://github.com/rafael-vas)
